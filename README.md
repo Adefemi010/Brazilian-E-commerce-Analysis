@@ -7,10 +7,10 @@ Armed with a rich dataset capturing a myriad of transactions, we will deploy sta
 
 The focal points of my investigation will include:
 
-    Consumer Spending Patterns: Unveiling the rhythms of customer purchases across different regions and timeframes.
-    Product Performance: Assessing which categories captivate consumers' interests and drive the market.
-    Vendor Analysis: Evaluating seller success metrics and understanding the landscape of competition.
-    Seasonal Fluctuations: Identifying and anticipating peaks and troughs in shopping activity throughout the year.
+ 1. Consumer Spending Patterns: Unveiling the rhythms of customer purchases across different regions and timeframes.
+ 2. Product Performance: Assessing which categories captivate consumers' interests and drive the market.
+ 3. Vendor Analysis: Evaluating seller success metrics and understanding the landscape of competition.
+ 4. Seasonal Fluctuations: Identifying and anticipating peaks and troughs in shopping activity throughout the year.
 
 My objective is to distill complex data into clear, actionable insights that can empower stakeholders to make informed decisions. By the end of this project, I aim to deliver a strategic blueprint that can navigate the ebbs and flows of the Brazilian e-commerce sector.
 
@@ -21,6 +21,12 @@ In the initial preparation phase, I performed the following task
   3. Data cleaning and formatting
 
 ### Analysis and Visualization
+![Brazilian E commerce 1](https://github.com/Adefemi010/Brazilian-E-commerce-Analysis/assets/149597242/915f1899-e223-43f8-97ae-cffa9a057f41)
+
+![Brazilian E commerce 2](https://github.com/Adefemi010/Brazilian-E-commerce-Analysis/assets/149597242/30eabc17-4c48-4b97-a0cd-c748831f1cfe)
+
+
+![Brazilian E commerce 3](https://github.com/Adefemi010/Brazilian-E-commerce-Analysis/assets/149597242/f706b860-bb15-4dd8-ae30-7520bf8909de)
 
 
 
